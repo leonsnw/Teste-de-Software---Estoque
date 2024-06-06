@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{06FAEC40-9A6B-4DFE-BB10-F9344F718C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{946E1136-B987-41E6-A5B6-3669E35866A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FAEC40-9A6B-4DFE-BB10-F9344F718C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FAEC40-9A6B-4DFE-BB10-F9344F718C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FAEC40-9A6B-4DFE-BB10-F9344F718C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FAEC40-9A6B-4DFE-BB10-F9344F718C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946E1136-B987-41E6-A5B6-3669E35866A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946E1136-B987-41E6-A5B6-3669E35866A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946E1136-B987-41E6-A5B6-3669E35866A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946E1136-B987-41E6-A5B6-3669E35866A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0AE27A-FE86-41BA-9106-969C9FB7A612}
+	EndGlobalSection
+EndGlobal
